@@ -1,0 +1,36 @@
+body{
+    background-image:url('https://gbksoft.com/blog/wp-content/uploads/2019/09/Who-is-ETL-DeveloperArtboard-2-984x555.png');
+     background-size: auto 100vh;
+     font-family:arial;
+     height:100vh;
+   }
+   
+   .menu{
+     background-color:white;
+   }
+   
+   .menu ul{
+     display:flex;
+     justify-content: space-around;
+   }
+   
+   .menu li {
+    list-style: none;
+   }
+   
+   a{
+     color:teal;
+   text-decoration: none;
+   }
+   
+   a:hover{
+     text-decoration:underline;
+   }
+    .site-title,
+   .site-subtitle{
+     color:whitesmoke;
+     text-align: center;
+   }
+   .site-subtitle{
+     font-style:italic;
+   }
